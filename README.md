@@ -116,6 +116,16 @@ python src/predict.py --input path/to/image.tif --output prediction_mask.png
 
 ---
 
+## 🏅 Certificate
+
+[📄 View Certificate of Participation — AISEHack 2026](certificates/AISEHack_Certificate_Jhansi.pdf)
+
+- **Team:** Heisenberg
+- **Organized by:** IIIT Hyderabad, IBM Research India & ANRF
+- **Signed by:** Director IBM Research India + IIT Delhi Professors
+
+---
+
 ## 👤 Author
 
 **Thigulla Jhansi Chandra Reddy**
